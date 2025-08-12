@@ -20,8 +20,7 @@ custom-toast-alerts/
 |-- images
 │-- README.md
 
-نسخ
-تحرير
+
 
 
 
